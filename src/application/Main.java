@@ -80,7 +80,7 @@ public class Main extends Application {
 	hb.getChildren().addAll(Help);
 
 
-	scene.setRoot(hb);
+	scene.setRoot(vb);
 	stage.show();
 	}
 
